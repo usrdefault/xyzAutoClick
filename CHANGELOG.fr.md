@@ -1,3 +1,10 @@
+# v3.9.7 - 05.11.2026 (j.m.a)
+## Corrigé
+- Renommer un préréglage fourni avec l'application n'avait aucun effet à l'écran : le nouveau nom était enregistré, mais l'ancien restait affiché.
+- Plusieurs textes restaient en anglais quelle que soit la langue choisie : les boutons Off / On de chaque carte, la colonne « clics » des points de clic, et le filtre du sélecteur d'image de fond.
+- La raison d'arrêt affichée en sortant d'une zone « Démarrer » s'affichait en anglais.
+- Le champ de couleur hexadécimale acceptait un caractère de trop.
+
 # v3.9.6 - 22.08.2026 (j.m.a)
 ## Nouveautés
 - Points de clic : plusieurs positions à l'écran cliquées l'une après l'autre, avec un rayon d'aléatoire par point et un arrêt automatique après un passage complet.
