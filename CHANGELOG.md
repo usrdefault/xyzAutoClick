@@ -1,3 +1,10 @@
+# v3.9.7 - 05.11.2026 (d.m.y)
+## Fixed
+- Renaming a preset that ships with the app had no visible effect: the new name was saved, but the old one stayed on screen.
+- Several labels stayed in English whatever the selected language: the Off / On buttons on every card, the "clicks" column of the click points, and the background image file filter.
+- The stop reason shown when leaving a "Start" zone appeared in English.
+- The hex colour field accepted one character too many.
+
 # v3.9.6 - 22.08.2026 (d.m.y)
 ## New
 - Click points: several positions on screen clicked one after another, each with a randomisation radius and an optional stop once the list has been played through.
